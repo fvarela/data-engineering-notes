@@ -1,2 +1,2 @@
 cd ~/quartz
-npx quartz sync
+npx quartz sync --no-pull
