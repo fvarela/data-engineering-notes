@@ -1,10 +1,10 @@
 ---
-title: Welcome
+title: Home
 ---
 
-# Welcome to My Digital Garden
+# Welcome to ETL and Tell
+![[Drawing 2025-10-14 09.42.03.png]]] Hey you
 
-This is a test page. More content coming soon!
 
 ## Recent Notes
 - [[Test Note]]

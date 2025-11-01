@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Data Engineering Notes",
+    pageTitle: "ETL and Tell",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
